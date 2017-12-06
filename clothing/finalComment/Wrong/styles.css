@@ -1,0 +1,51 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    margin: 5vh 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.container .col a {
+    text-decoration: none;
+}
+.container .col .box1 {
+    background: #4C4C4C;
+    height: 90vh;
+    width: 100%;
+    border-radius: 12px;
+    text-align: center;
+}
+.container .col .box1 .crossBack {
+    background: #FB4145;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-bottom: 140px;
+    position: relative;
+    top: 23%;
+}
+.container .col .box1 img {
+    margin-top: 20vh;
+}
+.container .col .box1 h4 {
+    padding: 15px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 300;
+}
+.container .col .box1 h3 {
+    color: white;
+    text-align: center;
+}
+.container .col .box1 a {
+    background: #FB4145;
+    border: none;
+    font-size: 20px;
+    padding: 5px 20px;
+    color: White;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px 2px rgba(0,0,0,0.3);
+}

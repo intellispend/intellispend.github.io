@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+.container .row .col {
+    text-align: center;
+    margin-top: 15vh;
+}
+.container .row .col img{
+    margin-bottom: 20px;
+}
+.container .row .col h4 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.container .row .col p {
+    font-family: 'Montserrat', sans-serif;
+}
